@@ -82,4 +82,8 @@ console.log("¡Hola, mundo!");
 
 Con tu entorno configurado y herramientas como VS Code y Quokka.js, estás listo para empezar tu viaje en JavaScript. ¡Es hora de sumergirse en los conceptos básicos y comenzar a construir con código!
 
-#### 🚀 Siguiente paso: Avanza al tema de Fundamentos para aprender las bases del lenguaje.
+> 🚀 **¿Listo para avanzar?**  
+> Explora el siguiente tema: **[Fundamentos](./02-fundamentos.md)** y aprende sobre variables, tipos de datos y operadores, las bases esenciales de JavaScript.
+
+> 🖥️ **¿Prefieres aprender con ejemplos prácticos?**  
+> Echa un vistazo a los ejemplos de código en **[1.Introducción.js](../2.Ejemplos/01-introduccion/1.Introduccion.js)** para reforzar los conceptos iniciales con ejercicios aplicables.

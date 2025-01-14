@@ -1,50 +1,146 @@
 # 🟩 Estructuras de Control
 
-Las **estructuras de control** son fundamentales en la programación, ya que te permiten dirigir el flujo de ejecución del código según ciertas condiciones. En JavaScript, las estructuras de control más comunes incluyen el **if**, **switch**, **for**, y **while**.
+Las **estructuras de control** son fundamentales para tomar decisiones y manejar el flujo del programa. Aquí aprenderás sobre los conceptos más importantes con ejemplos simples.
 
 ## 1. **Condicionales**
 
-Las estructuras condicionales permiten ejecutar un bloque de código solo si se cumple una condición específica.
+### **a. `if`**
 
-### a. **`if`**
+El `if` ejecuta un bloque de código solo si la condición es **verdadera**.
 
-El `if` evalúa una condición y ejecuta el bloque de código solo si la condición es **verdadera**. Si la condición es **falsa**, el bloque de código se omite.
+```javascript
+let edad = 18;
 
-### b. **`else`**
+if (edad >= 18) {
+  console.log("Eres mayor de edad");
+}
+```
 
-El `else` se utiliza junto con `if` y se ejecuta si la condición del `if` es **falsa**.
+### **b. `else`**
 
-### c. **`else if`**
+El `else` ejecuta un bloque de código si la condición del if es falsa.
 
-Permite evaluar múltiples condiciones. Si la primera condición `if` es falsa, se evalúa la condición del `else if`.
+```javascript
+let temperatura = 15;
 
-### d. **`switch`**
+if (temperatura > 25) {
+  console.log("Hace calor");
+} else {
+  console.log("Hace frío");
+}
+```
 
-El `switch` es similar a un conjunto de condicionales `if`, pero permite evaluar una expresión contra varios casos posibles. Es útil cuando hay múltiples condiciones posibles.
+### **c. `else if`**
 
-## 2. **Bucles (Loops)**
+El `else if` permite evaluar múltiples condiciones.
 
-Los bucles te permiten ejecutar un bloque de código varias veces, hasta que se cumpla una condición.
+```javascript
+let hora = 15;
 
-### a. **`for`**
+if (hora < 12) {
+  console.log("Buenos días");
+} else if (hora < 18) {
+  console.log("Buenas tardes");
+} else {
+  console.log("Buenas noches");
+}
+```
 
-El `for` es utilizado cuando sabes cuántas veces necesitas ejecutar un bloque de código. Se define mediante tres partes: **inicio**, **condición** y **incremento/decremento**.
+### **d. `switch`**
 
-### b. **`while`**
+El `switch` evalúa una expresión contra varios casos posibles.
 
-El `while` ejecuta un bloque de código mientras la condición especificada sea **verdadera**. Se ejecuta al menos una vez si la condición es verdadera al principio.
+```javascript
+let dia = 2;
 
-### c. **`do...while`**
+switch (dia) {
+  case 1:
+    console.log("Lunes");
+    break;
+  case 2:
+    console.log("Martes");
+    break;
+  case 3:
+    console.log("Miércoles");
+    break;
+  default:
+    console.log("Día desconocido");
+}
+```
 
-Similar al `while`, pero con la diferencia de que el bloque de código se ejecuta **al menos una vez**, ya que la condición se evalúa **después** de la ejecución.
+## 2. Bucles (Loops)
 
-## 3. **Sentencias de control de flujo adicionales**
+### **a. `for`**
 
-- **`break`**: Se usa dentro de los bucles o `switch` para salir del ciclo o declaración de inmediato.
-- **`continue`**: Se utiliza dentro de los bucles para omitir la iteración actual y pasar a la siguiente.
+El `for` ejecuta un bloque de código un número fijo de veces.
 
-## 📌 Resumen
+```javascript
+for (let i = 0; i < 5; i++) {
+  console.log("Iteración:", i);
+}
+```
 
-Las estructuras de control son esenciales para tomar decisiones y repetir acciones en tu código. Son la base de la lógica de cualquier aplicación, permitiendo manejar flujos de ejecución dinámicos.
+### **b. `while`**
 
-> 🚀 **Próximo paso**: ¡Vamos a ver algunos ejemplos prácticos de estas estructuras en el archivo de código JavaScript!
+El `while` ejecuta un bloque de código mientras la condición sea verdadera.
+
+```javascript
+let contador = 0;
+
+while (contador < 5) {
+  console.log("Contador:", contador);
+  contador++;
+}
+```
+
+### **c. `do...while`**
+
+El `do...while` garantiza que el bloque se ejecute al menos una vez.
+
+```javascript
+let numero = 0;
+
+do {
+  console.log("Número:", numero);
+  numero++;
+} while (numero < 5);
+```
+
+## 3. Control de flujo adicional
+
+### **a. `break`**
+
+El `break` termina la ejecución de un bucle o switch.
+
+```javascript
+for (let i = 0; i < 10; i++) {
+  if (i === 5) {
+    break; // Sale del bucle cuando i es igual a 5
+  }
+  console.log("Número:", i);
+}
+```
+
+### **b. `continue`**
+
+El `continue` salta la iteración actual y continúa con la siguiente.
+
+```javascript
+for (let i = 0; i < 10; i++) {
+  if (i === 3) {
+    continue; // Omite la iteración cuando i es igual a 3
+  }
+  console.log("Número:", i);
+}
+```
+
+### 📌 Resumen
+
+Con las estructuras de control, puedes:
+
+- Tomar decisiones condicionales usando if, else, else if y switch.
+- Repetir bloques de código con for, while y do...while.
+- Controlar el flujo con break y continue.
+
+> 🚀 **¿Listo para avanzar?**  
+> Explora el siguiente tema: **[Funciones](./04-funciones.md)** y descubre cómo definir, invocar y trabajar con funciones en JavaScript, una de las herramientas más poderosas del lenguaje.

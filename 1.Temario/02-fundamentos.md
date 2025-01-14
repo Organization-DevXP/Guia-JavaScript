@@ -71,4 +71,11 @@ En esta sección, cubrimos los conceptos básicos de JavaScript. Estos fundament
 
 A medida que avances en la guía, seguirás aprendiendo sobre estos conceptos, mejorando tus habilidades y desarrollando aplicaciones más complejas.
 
-> 🚀 **Próximo paso**: ¡Es hora de explorar las estructuras de control en JavaScript y cómo pueden ayudarte a tomar decisiones dentro de tu código!
+> 🚀 **¿Listo para avanzar?**  
+> Explora el siguiente tema: **[Estructuras de Control](./03-estructuras-control.md)** y domina conceptos esenciales como `if`, `switch`, `for`, `while`, entre otros.
+
+> 🖥️ **¿Prefieres aprender con ejemplos prácticos?**  
+> Echa un vistazo a los ejemplos prácticos para reforzar los fundamentos:
+> - **[1.Variables.js](../2.Ejemplos/02-fundamentos/1.Variables.js)**: Aprende cómo declarar y usar variables.
+> - **[2.Tipos_de_datos.js](../2.Ejemplos/02-fundamentos/2.Tipos_de_datos.js)**: Entiende los tipos de datos en JavaScript.
+> - **[3.Operadores.js](../2.Ejemplos/02-fundamentos/3.Operadores.js)**: Practica con los operadores más utilizados.
