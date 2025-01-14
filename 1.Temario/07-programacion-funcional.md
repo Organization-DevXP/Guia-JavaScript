@@ -112,8 +112,7 @@ console.log(resultado); // 12 (5 + 1 = 6, 6 * 2 = 12)
 ```
 
 🚀 **Siguiente paso**:  
-Avanza al tema de **[Promesas y Asincronismo](./
-08-promesas-y-asincronismo.md)** para explorar funciones de
+Avanza al tema de **[Promesas y Asincronismo](./08-promesas-y-asincronismo.md)** para explorar funciones de
 orden superior, inmutabilidad y más técnicas avanzadas de
 programación.
 
