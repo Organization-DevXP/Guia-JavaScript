@@ -111,14 +111,13 @@ const resultado = multiplicarPorDos(agregarUno(5));
 console.log(resultado); // 12 (5 + 1 = 6, 6 * 2 = 12)
 ```
 
-🚀 **Siguiente paso**:  
-Avanza al tema de **[Promesas y Asincronismo](./08-promesas-y-asincronismo.md)** para explorar funciones de
+> 🚀 **Siguiente paso**:  
+> Avanza al tema de **[Promesas y Asincronismo](./08-promesas-y-asincronismo.md)** para explorar funciones de
 orden superior, inmutabilidad y más técnicas avanzadas de
 programación.
 
-🖥️ **¿Prefieres aprender con ejemplos prácticos?**  
+> 🖥️ **¿Prefieres aprender con ejemplos prácticos?**  
 Echa un vistazo a los ejemplos prácticos:
-
-- **[1.Funciones_Puras.js](../2.Ejemplos/07-programacion-funcional/1.Funciones_Puras.js)**
-- **[2.Inmutabilidad.js](../2.Ejemplos/07-programacion-funcional/2.Inmutabilidad.js)**
-- **[3.Composicion.js](../2.Ejemplos/07-programacion-funcional/3.Composicion.js)**
+> - **[1.Funciones_Puras.js](../2.Ejemplos/07-programacion-funcional/1.Funciones_Puras.js)**
+> - **[2.Inmutabilidad.js](../2.Ejemplos/07-programacion-funcional/2.Inmutabilidad.js)**
+> - **[3.Composicion.js](../2.Ejemplos/07-programacion-funcional/3.Composicion.js)**

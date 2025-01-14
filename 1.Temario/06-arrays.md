@@ -190,12 +190,11 @@ for (let i = 0; i < frutas.length; i++) {
 - **Usa `forEach()` para realizar acciones en cada elemento de un array sin necesidad de crear un nuevo array.**
 - **Utiliza `map()` cuando necesites transformar los elementos de un array y `filter()` cuando necesites extraer solo aquellos elementos que cumplen con una condición.**
 
-🚀 **Siguiente paso**:  
-Avanza al tema de **[Programación Funcional](./07-programacion-funcional.md)** para explorar funciones de orden superior, inmutabilidad y más técnicas avanzadas de programación.
+> 🚀 **Siguiente paso**:  
+> Avanza al tema de **[Programación Funcional](./07-programacion-funcional.md)** para explorar funciones de orden superior, inmutabilidad y más técnicas avanzadas de programación.
 
-🖥️ **¿Prefieres aprender con ejemplos prácticos?**  
+> 🖥️ **¿Prefieres aprender con ejemplos prácticos?**  
 Echa un vistazo a los ejemplos prácticos:
-
-- **[1.Map.js](../2.Ejemplos/06-arrays/1.Map.js)**
-- **[2.Filter.js](../2.Ejemplos/06-arrays/2.Filter.js)**
-- **[3.Foreach.js](../2.Ejemplos/06-arrays/3.Foreach.js)**
+> - **[1.Map.js](../2.Ejemplos/06-arrays/1.Map.js)**
+> - **[2.Filter.js](../2.Ejemplos/06-arrays/2.Filter.js)**
+> - **[3.Foreach.js](../2.Ejemplos/06-arrays/3.Foreach.js)**
