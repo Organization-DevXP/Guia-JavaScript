@@ -57,7 +57,7 @@ Esta guía está estructurada en temas clave, para que avances paso a paso:
 
 ## 🧑‍💻 Ejemplos Prácticos
 
-🎯 Cada tema incluye ejemplos prácticos, ubicados en la carpeta [`ejemplos/`](./ejemplos/).
+🎯 Cada tema incluye ejemplos prácticos, ubicados en la carpeta [`ejemplos/`](./2.Ejemplos/).
 
 Ejemplo inicial:
 
