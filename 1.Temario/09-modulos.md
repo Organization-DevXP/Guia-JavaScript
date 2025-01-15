@@ -81,6 +81,6 @@ console.log(multiplicar(4, 5)); // 20
 > 🖥️ **¿Prefieres aprender con ejemplos prácticos?**  
 > Echa un vistazo a los ejemplos:
 >
-> - **[1.ESModules.js](../ejemplos/09-modulos/ESModules.js)**
-> - **[2.CommonJS.js](../ejemplos/09-modulos/CommonJS.js)**
-> - **[3.ExportDefault.js](../ejemplos/09-modulos/ExportDefault.js)**
+> - **[1.ESModules.js](../2.Ejemplos/09-modulos/ESModules.js)**
+> - **[2.CommonJS.js](../2.Ejemplos/09-modulos/CommonJS.js)**
+> - **[3.ExportDefault.js](../2.Ejemplos/09-modulos/ExportDefault.js)**

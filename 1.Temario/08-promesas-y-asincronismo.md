@@ -79,6 +79,6 @@ manejarPromesa();
 
 > 🖥️ **¿Prefieres aprender con ejemplos prácticos?**  
 Echa un vistazo a los ejemplos:
-> - **[1.CreandoPromesas.js](../ejemplos/08-promesas-y-asincronismo/CreandoPromesas.js)**
-> - **[2.ManejandoPromesas.js](../ejemplos/08-promesas-y-asincronismo/ManejandoPromesas.js)**
-> - **[3.AsyncAwait.js](../ejemplos/08-promesas-y-asincronismo/AsyncAwait.js)**
+> - **[1.CreandoPromesas.js](../2.Ejemplos/08-promesas-y-asincronismo/CreandoPromesas.js)**
+> - **[2.ManejandoPromesas.js](../2.Ejemplos/08-promesas-y-asincronismo/ManejandoPromesas.js)**
+> - **[3.AsyncAwait.js](../2.Ejemplos/08-promesas-y-asincronismo/AsyncAwait.js)**

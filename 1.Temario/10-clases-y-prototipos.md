@@ -110,6 +110,6 @@ console.log(Matematicas.sumar(3, 4)); // 7
 
 > 🖥️ **¿Prefieres aprender con ejemplos prácticos?**  
 > Echa un vistazo a los ejemplos:
-> - **[1.ClasesBasicas.js](../ejemplos/10-clases-y-prototipos/ClasesBasicas.js)**
-> - **[2.Herencia.js](../ejemplos/10-clases-y-prototipos/Herencia.js)**
-> - **[3.Prototipos.js](../ejemplos/10-clases-y-prototipos/Prototipos.js)**
+> - **[1.ClasesBasicas.js](../2.Ejemplos/10-clases-y-prototipos/ClasesBasicas.js)**
+> - **[2.Herencia.js](../2.Ejemplos/10-clases-y-prototipos/Herencia.js)**
+> - **[3.Prototipos.js](../2.Ejemplos/10-clases-y-prototipos/Prototipos.js)**

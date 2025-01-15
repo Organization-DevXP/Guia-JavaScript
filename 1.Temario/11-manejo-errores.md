@@ -65,6 +65,6 @@ En este ejemplo, si ocurre un error al realizar la solicitud HTTP, el error ser�
 > 🖥️ **¿Prefieres aprender con ejemplos prácticos?**  
 > Echa un vistazo a los ejemplos:
 >
-> - **[1.ManejoErroresBasico.js](../ejemplos/11-manejo-errores/ManejoErroresBasico.js)**
-> - **[2.ErroresAsincronos.js](../ejemplos/11-manejo-errores/ErroresAsincronos.js)**
-> - **[3.ErroresCustomizados.js](../ejemplos/11-manejo-errores/ErroresCustomizados.js)**
+> - **[1.ManejoErroresBasico.js](../2.Ejemplos/11-manejo-errores/ManejoErroresBasico.js)**
+> - **[2.ErroresAsincronos.js](../2.Ejemplos/11-manejo-errores/ErroresAsincronos.js)**
+> - **[3.ErroresCustomizados.js](../2.Ejemplos/11-manejo-errores/ErroresCustomizados.js)**
