@@ -144,3 +144,10 @@ Con las estructuras de control, puedes:
 
 > 🚀 **¿Listo para avanzar?**  
 > Explora el siguiente tema: **[Funciones](./04-funciones.md)** y descubre cómo definir, invocar y trabajar con funciones en JavaScript, una de las herramientas más poderosas del lenguaje.
+
+> 🖥️ **¿Prefieres aprender con ejemplos prácticos?**  
+> Echa un vistazo a los ejemplos prácticos:
+>
+> - **[Condicionales.js](../2.Ejemplos/03-estructuras-control/1.Condicionales.js)**
+> - **[Bucles.js](../2.Ejemplos/03-estructuras-control/2.Bucles.js)**
+> - **[Control_Flujo.js](../2.Ejemplos/03-estructuras-control/3.Control_flujo.js)**
