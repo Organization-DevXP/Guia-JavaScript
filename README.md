@@ -22,37 +22,37 @@ Esta guía está estructurada en temas clave, para que avances paso a paso:
 1. **[Introducción](./1.Temario/01-introduccion.md)**  
    Conoce qué es JavaScript, sus usos y ejecuta tu primer programa.
 
-2. **[Fundamentos](./1.temario/02-fundamentos.md)**  
+2. **[Fundamentos](./1.Temario/02-fundamentos.md)**  
    Aprende sobre variables, tipos de datos, operadores y sintaxis básica.
 
-3. **[Estructuras de Control](./1.temario/03-estructuras-control.md)**  
+3. **[Estructuras de Control](./1.Temario/03-estructuras-control.md)**  
    Domina `if`, `switch`, `for`, `while` y otros conceptos esenciales.
 
-4. **[Funciones](./1.temario/04-funciones.md)**  
+4. **[Funciones](./1.Temario/04-funciones.md)**  
    Aprende a crear, invocar y entender funciones y su importancia en JS.
 
-5. **[Objetos y Clases](./1.temario/05-objetos.md)**  
+5. **[Objetos y Clases](./1.Temario/05-objetos.md)**  
    Descubre cómo usar objetos, prototipos y clases para modelar tu aplicación.
 
-6. **[Arrays](./1.temario/06-arrays.md)**  
+6. **[Arrays](./1.Temario/06-arrays.md)**  
    Manipula colecciones de datos con arreglos y métodos como `map` y `filter`.
 
-7. **[Programación Funcional](./1.temario/07-programacion-funcional.md)**  
+7. **[Programación Funcional](./1.Temario/07-programacion-funcional.md)**  
    Explora funciones de orden superior, inmutabilidad y técnicas modernas.
 
-8. **[Promesas y Asincronismo](./1.temario/08-promesas-y-asincronismo.md)**  
+8. **[Promesas y Asincronismo](./1.Temario/08-promesas-y-asincronismo.md)**  
    Aprende a manejar procesos asíncronos como un profesional.
 
-9. **[Módulos](./1.temario/09-modulos.md)**  
+9. **[Módulos](./1.Temario/09-modulos.md)**  
    Descubre cómo organizar tu código y reutilizar funciones en proyectos.
 
-10. **[Clases y Prototipos](./1.temario/10-clases-y-prototipos.md)**  
+10. **[Clases y Prototipos](./1.Temario/10-clases-y-prototipos.md)**  
     Profundiza en la programación orientada a objetos.
 
-11. **[Manejo de Errores](./1.temario/11-manejo-errores.md)**  
+11. **[Manejo de Errores](./1.Temario/11-manejo-errores.md)**  
     Aprende a anticipar y gestionar errores para mejorar la experiencia del usuario.
 
-12. **[Temas Avanzados](./1.temario/12-avanzado.md)**  
+12. **[Temas Avanzados](./1.Temario/12-avanzado.md)**  
     Explora meta-programación, patrones avanzados y más.
 
 ## 🧑‍💻 Ejemplos Prácticos
