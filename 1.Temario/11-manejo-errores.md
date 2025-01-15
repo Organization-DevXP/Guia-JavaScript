@@ -59,7 +59,7 @@ fetch("https://api.ejemplo.com/data")
 En este ejemplo, si ocurre un error al realizar la solicitud HTTP, el error será capturado por el bloque `catch` y se mostrará un mensaje de error.
 
 > 🚀 **Siguiente paso**  
-> Avanza al tema de **[Temas Avanzados](./temario/12-avanzado.md)** para explorar
+> Avanza al tema de **[Temas Avanzados](./12-avanzado.md)** para explorar
 > meta-programación, patrones avanzados y mucho más.
 
 > 🖥️ **¿Prefieres aprender con ejemplos prácticos?**  

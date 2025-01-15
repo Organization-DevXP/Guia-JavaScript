@@ -106,7 +106,7 @@ console.log(Matematicas.sumar(3, 4)); // 7
 - `static`: Define un método estático que pertenece a la clase, no a las instancias de la clase.
 
 > 🚀 **Siguiente paso:**  
-> Avanza al tema de **[Manejo de Errores](./temario/11-manejo-errores.md)** para aprender a anticipar y gestionar errores y mejorar la experiencia del usuario.
+> Avanza al tema de **[Manejo de Errores](./11-manejo-errores.md)** para aprender a anticipar y gestionar errores y mejorar la experiencia del usuario.
 
 > 🖥️ **¿Prefieres aprender con ejemplos prácticos?**  
 > Echa un vistazo a los ejemplos:
